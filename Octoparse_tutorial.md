@@ -70,7 +70,7 @@
 
 #### 결과
 
-[전체 결과보기] (https://github.com/chanp5660/Util_chanp5660/blob/master/ItemList.csv)
+[전체 결과보기](https://github.com/chanp5660/Util_chanp5660/blob/master/ItemList.csv)
 
 ![결과6](https://user-images.githubusercontent.com/46266247/57516773-5577c000-7350-11e9-82b6-c3e99ab92027.png)
 
