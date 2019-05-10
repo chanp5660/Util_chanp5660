@@ -18,7 +18,7 @@
 
 목적 : 메이플스토리의 모든 아이템의 리스트를 얻고 싶다.
 
-### 1. 우리가 실행해야 하는 모드는 Advanced Moded이다. 위에 그림에서 아래 빨간색 네모를 클릭[+task].
+### 1. Advanced Mode의 [+task] .
 
 ### 2. 그럼 화면에  Website의 URL을 입력할 수 있게 되어 있는데 http://maple.inven.co.kr/dataninfo/item/list.php?class2=101 를 입력해본다. Save URL 클릭
 
