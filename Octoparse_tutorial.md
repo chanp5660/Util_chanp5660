@@ -6,7 +6,7 @@
 ## 설치 방법
 
 ### 1. 공식사이트에서 [다운로드](https://www.octoparse.com/download)
-### 2. 알집 압출풀기 
+### 2. 알집 압출풀고 빨간네모 실행
 
 ![압축풀기](https://user-images.githubusercontent.com/46266247/57507069-a4196000-7338-11e9-8d59-e0c4b8390efc.png)
 
