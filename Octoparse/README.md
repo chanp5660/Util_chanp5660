@@ -31,37 +31,23 @@
 - 3번 실제 사용자가 클릭이나 행동을 화면을 통해서 할 수 있다.
 > 3번 부분에서 Action Tips이 행동을 할때 어떤 것을 할 수 있는지 도움을 준다. 1번을 바로 하기에는 힘들다. 3번에서 클릭을 통해서 많이 해본 다음에 해보도록 하자.
 
-![실행화면](https://user-images.githubusercontent.com/46266247/57515290-37f52700-734d-11e9-874c-8fa23756afe6.png)
-
-### 3. 게임명을 입력한다. [메이플스토리]
-
-![게임명을 입력하세요](https://user-images.githubusercontent.com/46266247/57511680-c74a0c80-7344-11e9-8600-ec9580be0bd4.png)
-
-![메이플스토리](https://user-images.githubusercontent.com/46266247/57511765-f82a4180-7344-11e9-9fa1-e4edc855ed9c.png)
-
-![메이플클릭](https://user-images.githubusercontent.com/46266247/57511872-37f12900-7345-11e9-9269-302722b12421.png)
-
-##### 3단계 결과
-
-![결과](https://user-images.githubusercontent.com/46266247/57512466-b0a4b500-7346-11e9-921c-13a874a36d34.JPG)
-
-### 4. 아이템을 분류하는 곳을 클릭할 수 있는 루프 생성. 얻어야 할 곳을 클릭( 비슷한 유형을 여러개 선택해준다고 생각하면 됨 )
+### 3. 아이템을 분류하는 곳을 클릭할 수 있는 루프 생성. 얻어야 할 곳을 클릭( 비슷한 유형을 여러개 선택해준다고 생각하면 됨 )
 
 ![종류](https://user-images.githubusercontent.com/46266247/57515790-6a535400-734e-11e9-80d4-9a2a4cddbdd0.png)
 
-#### 4단계 결과
+#### 3단계 결과
 
 ![결과3](https://user-images.githubusercontent.com/46266247/57516014-d7ff8000-734e-11e9-88f1-a4adf3caed1e.JPG)
 
-### 5. 아이템 이름을 뽑는다. 스크롤을 내려 아이템을 5번째꺼(아무거나 상관없음) 1번째꺼 클릭(첫번째는 해줘야한다.). 그후 추출
+### 4. 아이템 이름을 뽑는다. 스크롤을 내려 아이템을 5번째꺼(아무거나 상관없음) 1번째꺼 클릭(첫번째는 해줘야한다.). 그후 추출
 
 ![추출1](https://user-images.githubusercontent.com/46266247/57516292-6bd14c00-734f-11e9-85ce-a7a6c877b164.png)
 
-#### 5단계 결과
+#### 4단계 결과
 
 ![결과4](https://user-images.githubusercontent.com/46266247/57516496-cbc7f280-734f-11e9-90d3-11f18a26e5bc.png)
 
-### 6. 데이터 추출
+### 5. 데이터 추출
 
 - 위 사진에서 10시 방향에 Save를 한번 눌러 저장하고 그 옆의 **Start extraction**을 클릭. 
 - 무료 이용자이므로 **Local extracion**을 클릭.
